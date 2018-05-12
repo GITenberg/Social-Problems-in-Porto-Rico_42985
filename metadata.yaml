@@ -1,0 +1,25 @@
+_repo: Social-Problems-in-Porto-Rico_42985
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42985-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fleagle, Fred K.
+    gutenberg_agent_id: '41970'
+    url: http://www.gutenberg.org/2009/agents/41970
+description: ''
+gutenberg_issued: '2013-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42985'
+  lccn: '17017543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Puerto Rico -- Social conditions'
+- !lcc 'HN'
+title: Social Problems in Porto Rico
+url: http://www.gutenberg.org/ebooks/42985
