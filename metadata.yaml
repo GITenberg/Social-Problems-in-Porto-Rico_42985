@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41970'
     url: http://www.gutenberg.org/2009/agents/41970
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42985#Social-Problems-in-Porto-Rico
 gutenberg_issued: '2013-06-18'
 gutenberg_type: Text
 identifiers:
